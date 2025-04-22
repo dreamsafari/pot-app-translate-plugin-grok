@@ -1,9 +1,9 @@
 {
-  "id": "plugin.com.pot-app.lingva",
+  "id": "plugin.com.pot-app.grok",
   "plugin_type": "translate",
-  "icon": "lingva.svg",
+  "icon": "grok.svg",
   "display": "Lingva",
-  "homepage": "https://github.com/pot-app/pot-app-translate-plugin-template",
+  "homepage": "https://github.com/dreamsafari/pot-app-translate-plugin-grok",
   "needs": [{ "key": "requestPath", "display": "请求地址" }],
   "language": {
     "auto": "auto",
